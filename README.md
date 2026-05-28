@@ -1,9 +1,8 @@
 # johnbk
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> (Namaste)🙏🏻, I'm john! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 🙏🏻, I'm john! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="#">Your Company Name</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?label=Follow)](https://twitter.com/intent/follow?screen_name=yourhandle)
 [![Linkedin: john](https://img.shields.io/badge/-john-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnbk/)](https://www.linkedin.com/in/johnbk/)
